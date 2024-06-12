@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h2 align="left">About Me</h2>
+<h1 align="left">About Me</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">👋 Hi there I am Doaa Ayman<br> I am a Computer Science student at Helwan University with a strong passion for data analysis. <br><br>🌟 Interests<br>Data Analysis and Visualization using Excel, Power BI, and tableau.<br>Data Cleaning and Transformation<br><br>📚 Current Focus<br>I am actively engaged in projects involving data visualization and open-source contributions, aiming to discover trends and provide real-life insights.<br><br>🔍 What I’m Looking For:<br>I am seeking opportunities to collaborate on impactful data visualization projects or internships where I can contribute to innovative solutions and further develop my skills.<br><br>Tech stack 💻</h4>
+<h2 align="left">👋 Hi there I am Doaa Ayman<br> I am a Computer Science student at Helwan University with a strong passion for data analysis. <br><br>🌟 Interests<br>Data Analysis and Visualization using Excel, Power BI, and tableau.<br>Data Cleaning and Transformation<br><br>📚 Current Focus<br>I am actively engaged in projects involving data visualization and open-source contributions, aiming to discover trends and provide real-life insights.<br><br>🔍 What I’m Looking For:<br>I am seeking opportunities to collaborate on impactful data visualization projects or internships where I can contribute to innovative solutions and further develop my skills.<br><br>Tech stack 💻</h2>
 
 ###
 
@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/doaaaymann/doaaaymann/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
